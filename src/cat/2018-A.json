@@ -1,0 +1,30 @@
+{
+    "baseURL": "https://raw.githubusercontent.com/zchen323/MJ/master/src/resource/babies/",
+    "id": "2018-A",
+    "images": [
+        {
+            "title": "",
+            "description": "",
+            "name": "IMG_1525.jpg" 
+        },
+        {
+            "title": "",
+            "description": "",
+            "name": "IMG_1530.jpg" 
+            
+        },
+        {
+            "title": "",
+            "description": "",
+            "name": "IMG_1538.jpg" 
+            
+        },
+        {
+            "title": "",
+            "description": "",
+            "name": "IMG_1540.jpg" 
+            
+        }
+
+    ]
+}
